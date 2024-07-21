@@ -17,6 +17,8 @@
 ## Behavioral -  (Davranışsal) Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluşturulur.
 ### 1) Iterator: Döngü içerisinde kullanılacak işlemlerde yardımcı olur.
 - Yeni bir collection oluşturulup kitap ekleme ve listeleme işlemi için kullanılması buna örnektir.
+### 2) Command: Direk çağırmaktansa kapsülleyerek ana class yerine paramtere ile başka classa erişimi.
+- Merhaba ve hoşçakal için ayrı commandlar oluşturulup Invoker üzerinden kapsüllenip bundan türetilip iligli metodların kullanılması.
 ---
 #### Kaynakça:
 - Taner Saydam - Udemy - YouTube
