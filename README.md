@@ -5,3 +5,7 @@
 ### 1) Proxy: Web sitelerine giderken firewalla uğrayıp ondan sonra sunuculara ulaşılması gibi. Dosya okuma işlemlerinde yetki kontrolü için yapılması buna örnektir.
 ---
 ## Behavioral -  (Davranışsal) Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluşturulur.
+
+
+#### Kaynakça:
+Taner Saydam - Udemy - YouTube
