@@ -12,6 +12,7 @@
 ---
 ## Behavioral -  (Davranışsal) Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluşturulur.
 ### 1) Iterator: Döngü içerisinde kullanılacak işlemlerde yardımcı olur.
+- Yeni bir collection oluşturulup kitap ekleme ve listeleme işlemi için kullanılması buna örnektir.
 ---
 #### Kaynakça:
 - Taner Saydam - Udemy - YouTube
