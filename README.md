@@ -1,5 +1,5 @@
 # Design Patterns
-<img width="250px" src="https://sis.binus.ac.id/wp-content/uploads/2021/11/1-10.png"/>
+<img src="https://sis.binus.ac.id/wp-content/uploads/2021/11/1-10.png"/>
 
 ---
 ## Creational -  (Yaratımsal) Nesneleri yaratmakta kullanılır.
