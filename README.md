@@ -8,4 +8,4 @@
 
 
 #### Kaynakça:
-Taner Saydam - Udemy - YouTube
+- Taner Saydam - Udemy - YouTube
