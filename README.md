@@ -16,4 +16,3 @@
 ---
 #### Kaynakça:
 - Taner Saydam - Udemy - YouTube
-- Ahmet Babalı - Medium
