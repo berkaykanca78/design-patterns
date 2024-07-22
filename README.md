@@ -19,6 +19,8 @@
 - Yeni bir collection oluşturulup kitap ekleme ve listeleme işlemi için kullanılması buna örnektir.
 ### 2) Command: Direk çağırmaktansa kapsülleyerek ana class yerine paramtere ile başka classa erişimi.
 - Merhaba ve hoşçakal için ayrı commandlar oluşturulup Invoker üzerinden kapsüllenip bundan türetilip iligli metodların kullanılması.
+### 3) Visitor: Farklı türleri aynı interface ile farklı metodlarla sağlar.
+- Alışveriş sepeti farklı ürünler için vergi hesaplama, ayrı classlarda sağlama.
 ---
 #### Kaynakça:
 - Taner Saydam - Udemy - YouTube
