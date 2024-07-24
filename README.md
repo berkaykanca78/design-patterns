@@ -13,6 +13,8 @@
 - Dosya okuma işlemlerinde yetki kontrolü için yapılması buna örnektir.
 ### 2) Adapter: Telefonlardan adaptöre hangisi bağlıysa o çalışır gibi düşünelim.  Farklı metodlar kullanan aynı işleri yapan işlemleri ortak birleştirici adaptör ile bunları bağlayabiliriz.
 - Farklı veritabanlarına bağlantı ve sorguları execute ederken kullanabiliriz. MySql- MsSql gibi..
+### 3) Decorator: Decorator Design Pattern, nesnelerin farklı kombinasyonlar ile farklı özelliklere sahip olabilmesini (karmaşıklıktan uzak bir şekilde) sağlamak amacı ile kullanılır. 
+- UI Arayüz componentlerinin tasarlandığı bir uygulama. Butonlar, grafikler vs içermesi.
 ---
 ## Behavioral -  (Davranışsal) Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluşturulur.
 ### 1) Iterator: Döngü içerisinde kullanılacak işlemlerde yardımcı olur.
@@ -21,7 +23,12 @@
 - Merhaba ve hoşçakal için ayrı commandlar oluşturulup Invoker üzerinden kapsüllenip bundan türetilip iligli metodların kullanılması.
 ### 3) Visitor: Farklı türleri aynı interface ile farklı metodlarla sağlar.
 - Alışveriş sepeti farklı ürünler için vergi hesaplama, ayrı classlarda sağlama.
+### 4) Template: Algoritma iskeleti tamamlamak bazı adımları alt sınıfların uygulaması için algoritma yapısı değişmeden belli adımları özelleştirebilirsiniz.
+- İçeceği hazırlama adımları buna örnektir. Tek abstract class içinde işlemler sıraya düzeltilip sabit meotdları yazıp classlar inherit edip override edilenleri override edip içerisinde mevcut class nesne ürete içecek hazırlar,classa göre hazırlama.
+### 5) Strategy: Öncelikle bir interfece oluşturulur sonra strajeiler berlierlenir class içindeki yapı tasaralanır ve belirlenen stratejiye göre işlemler yapılır.
+- E-Ticaret sitesi ödemede: ister kredi kartı ister paypal ister bitcoin kullanımı için pattern kullanımı
 ---
 #### Kaynakça:
 - Taner Saydam - Udemy - YouTube
 - Ahmet Babalı - Medium
+- Fatih İzgi - Medium
