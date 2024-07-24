@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B2A4E210-D4DE-4AD6-AAF9-2E60B1F510C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{CE45C800-A108-46D2-9D5D-F97921BF2729}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{A80B3260-7293-4E9B-AA76-4F128D18456C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{1B4F245D-0E30-4E9D-AD5D-1BCA8FE33D18}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE45C800-A108-46D2-9D5D-F97921BF2729} = {B2A4E210-D4DE-4AD6-AAF9-2E60B1F510C0}
+		{A80B3260-7293-4E9B-AA76-4F128D18456C} = {B2A4E210-D4DE-4AD6-AAF9-2E60B1F510C0}
+		{1B4F245D-0E30-4E9D-AD5D-1BCA8FE33D18} = {B2A4E210-D4DE-4AD6-AAF9-2E60B1F510C0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF31295-1ED4-4827-BD54-66E0D8EBCCFD}
+	EndGlobalSection
+EndGlobal
