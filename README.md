@@ -4,7 +4,8 @@
 
 ---
 
-## Creational (Yaratımsal)
+## Creational (Yaratımsal) 
+#### 5 Çeşit:
 Nesneleri yaratmakta kullanılır.
 
 ### 1. Builder
