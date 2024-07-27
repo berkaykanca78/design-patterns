@@ -9,6 +9,8 @@
 - Loglama işleminde tek bir instance üzerinden devam etmek mantıklıdır. İçerisine dizin bilgisi verilip ilgili loglar oraya kaydedilir.
 ### 3) Abstract Factory: Benzer nesne üretimlerini gerçekleştirebilmek adına her nesne için ayrı bir fabrika sınıfı oluşturmamız gerekmektedir. Ayrıca bu desen, birden fazla Interface kullanımı ile gerçekleştirilir.  
 - Klasik ve modern mobilya ve masaları üretmek için bir örnek yapabiliriz.
+### 4) Prototype: Aynı sınıftan üretilecek olan nesnelerin (birbirleri ile çok ufak farklılıkları olması durumunda) nasıl en verimli şekilde üretileceği problemidir.
+- Kitpa satışl uygulaması içerisinde kitpaları satmadan önce son kullanıcya kitaba ait ön teanıtım bunlar yazıyotr gibi önzilemsi yapaıoclak enaryoda prtotip mecvut neşen protiitp üzer,nde mörnek paıalbilir.
 ---
 ## Structural - (Yapısal) Nesneler arasındaki yapıları ifade eder.
 ### 1) Proxy: Web sitelerine giderken firewalla uğrayıp ondan sonra sunuculara ulaşılması gibi. 
