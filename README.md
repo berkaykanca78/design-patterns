@@ -4,7 +4,7 @@
 
 ---
 
-## Creational (Yaratımsal)
+## Creational (Yaratımsal) ✔
 Nesneleri yaratmakta kullanılır.
 
 <table>
