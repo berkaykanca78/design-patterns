@@ -30,7 +30,7 @@ Aynı sınıftan üretilecek olan nesnelerin (birbirleri ile çok ufak farklıl�
 ### 5. Factory
 Bir nesne yaratma işlemi için bir üst sınıf kullanılarak alt sınıflardan uygun olanını seçmek.
 
-- **Örnek:** Birden fazla ödeme yöntemi olan bir sistemde ödeme işlemini gerçekleştirmek.
+- **Örnek:** Birden fazla ödeme yöntemi olan bir sistemde ödeme işlemini gerçekleştirmek. Restoran otomasyonunda sipariş verme işleminde yiyecek ve içeceklerin factory design pattern ile nesnelerinin oluşturularak kullanılması.
 
 ---
 
