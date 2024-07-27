@@ -30,7 +30,9 @@
 ### 5) Strategy: Öncelikle bir interfece oluşturulur sonra strajeiler berlierlenir class içindeki yapı tasaralanır ve belirlenen stratejiye göre işlemler yapılır.
 - E-Ticaret sitesi ödemede: ister kredi kartı ister paypal ister bitcoin kullanımı için pattern kullanımı
 ### 6) State: Nesne iş durumuna bağlı davarnış değiştirmesien olanak sağlayan, farklı durumlarada farklı işlemler sağlar. İhtiyaca göre durumların kolayca dönüştürlmesini sağlayan bir tasarım desenidir.
-- Lambanın düğmesinin açılması kapanması parlaklığının arttırılıp azaltılması ile ilgili durumlarının kontorlünün sağlanması buna örnektir. 
+- Lambanın düğmesinin açılması kapanması parlaklığının arttırılıp azaltılması ile ilgili durumlarının kontorlünün sağlanması buna örnektir.
+### 7) Memento: Bir nesnenin durmunu kaydedip geriye gelme, geriye ve ileri al işlemlerinde kullanılabilir.
+- Yapılan işlemin aktif/pasif olma durumu ve bunun geriye alınıp bir önceki duruma getirlmesi örnek olabilir.
 ---
 #### Kaynakça:
 - Taner Saydam - Udemy - YouTube
