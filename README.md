@@ -33,7 +33,7 @@
 - Lambanın düğmesinin açılması kapanması parlaklığının arttırılıp azaltılması ile ilgili durumlarının kontorlünün sağlanması buna örnektir.
 ### 7) Memento: Bir nesnenin durmunu kaydedip geriye gelme, geriye ve ileri al işlemlerinde kullanılabilir.
 - Yapılan işlemin aktif/pasif olma durumu ve bunun geriye alınıp bir önceki duruma getirlmesi örnek olabilir.
-### 8) Chain Of Responsibility: Sorumluluk Zinciri, bir isteği bir dizi işleyici (zinciri) boyunca iletmenize izin veren davranışsal bir tasarım desenidir .Karmaşık iş kurallarının olduğu ve iç içe ve birsürü if blokları ile yapacağımız işler yerine ara sınıflar kullanarak daha yönetilebilir ve okunaklı kodlar yazılmasını sağlar.
+### 8) Chain Of Responsibility: Sorumluluk Zinciri, bir isteği bir dizi işleyici (zinciri) boyunca iletmenize izin veren davranışsal bir tasarım desenidir .Karmaşık iş kurallarının olduğu ve iç içe ve birsürü if blokları ile yapacağımız işler yerine ara sınıflar kullanarak daha yönetilebilir ve okunaklı kodlar yazılmasını sağlar. (SOLID)'in Single Responsibility kuralı gereği her yapılacak işlememizin bir classı olmalı metoduna dayanır bu design patternin amacı.
 - Çeşitli ürünlerde farklı iskontoların formülize edildiği bir sistemde kullanılabilir.
 ---
 #### Kaynakça:
