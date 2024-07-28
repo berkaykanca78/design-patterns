@@ -25,7 +25,7 @@ Nesneler arasındaki yapıları ifade eder.
 | 1  | Proxy           | Web sitelerine giderken firewalla uğrayıp ondan sonra sunuculara ulaşılması gibi.                         | Dosya okuma işlemlerinde yetki kontrolü için yapılması.           |
 | 2  | Adapter         | Farklı metodlar kullanan aynı işleri yapan işlemleri ortak birleştirici adaptör ile bağlamak.               | Farklı veritabanlarına bağlantı ve sorguları execute ederken kullanılması. (MySQL-MSSQL gibi.) |
 | 3  | Decorator       | Nesnelerin farklı kombinasyonlar ile farklı özelliklere sahip olabilmesini (karmaşıklıktan uzak bir şekilde) sağlamak. | UI arayüz componentlerinin tasarlandığı bir uygulama. Butonlar, grafikler vs. içermesi. |
-
+| 4  | Facade          | Karmaşık sistem veya alt sistemlerin daha basit ve anlaşılır arayüzle yönetilmesini sağlar.               | Alt sistemler için classalarımız olsun operasyon yönetsin. Facede ile kapsüllersek yönetmesi kullanması daha kolay olur. |
 ---
 
 ## Behavioral (Davranışsal)
