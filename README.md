@@ -28,7 +28,7 @@ Nesneler arasındaki yapıları ifade eder.
 | 2  | Adapter         | Farklı metodlar kullanan aynı işleri yapan işlemleri ortak birleştirici adaptör ile bağlamak.               | Farklı veritabanlarına bağlantı ve sorguları execute ederken kullanılması. (MySQL-MSSQL gibi.) |
 | 3  | Decorator       | Nesnelerin farklı kombinasyonlar ile farklı özelliklere sahip olabilmesini (karmaşıklıktan uzak bir şekilde) sağlamak. | UI arayüz componentlerinin tasarlandığı bir uygulama. Butonlar, grafikler vs. içermesi. |
 | 4  | Facade          | Karmaşık sistem veya alt sistemlerin daha basit ve anlaşılır arayüzle yönetilmesini sağlar.               | Alt sistemler için classlarımız olsun operasyon yönetsin. Facade ile kapsüllersek yönetmesi kullanması daha kolay olur. |
-| 5  | Flyweight       | Çok sayıda benzer nesneye ihtiyaç duyulması problemine çözüm olarak getirilmiştir.                        | İkili oyunlarda ağaç yerleştirme için nesne üretmek zorundayız, flyweight ile bellek optimizasyonu sağlanabilir. Aynı ağaç, farklı noktalara nesne üretmeden kullanılabilir. |
+| 5  | Flyweight       | Çok sayıda benzer nesneye ihtiyaç duyulması problemine çözüm olarak getirilmiştir.                        | İkili oyunlarda ağaç yerleştirme için nesne üretmek zorundayız, flyweight ile bellek optimizasyonu sağlanabilir. Aynı ağaç, farklı noktalara nesne üretmeden kullanılabilir. Orman olacak ormana tek tek ağaç ekleme yapacağız bunun konum biglilerini vereceğiz. |
 
 ---
 
