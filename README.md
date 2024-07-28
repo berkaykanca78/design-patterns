@@ -41,6 +41,7 @@ Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluş
 | 6  | State                  | Nesnenin iş durumuna bağlı davranış değiştirmesine olanak sağlayan, farklı durumlarda farklı işlemler sağlar. | Lambanın düğmesinin açılması, kapanması, parlaklığının arttırılıp azaltılması ile ilgili durumlarının kontrolünün sağlanması. |
 | 7  | Memento                | Bir nesnenin durumunu kaydedip geriye alma, geriye ve ileri alma işlemlerinde kullanılabilir.                | Yapılan işlemin aktif/pasif olma durumu ve bunun geriye alınıp bir önceki duruma getirilmesi. |
 | 8  | Chain of Responsibility| Sorumluluk Zinciri, bir isteği bir dizi işleyici (zinciri) boyunca iletmenize izin veren davranışsal bir tasarım desenidir. Karmaşık iş kurallarının olduğu ve iç içe geçmiş birçok if blokları yerine ara sınıflar kullanarak daha yönetilebilir ve okunaklı kodlar yazılmasını sağlar. | Çeşitli ürünlerde farklı iskontoların formülize edildiği bir sistemde kullanılması. |
+| 9  | Observer               |  Observer pattern, bir nesne kümesi arasındaki one-to-many ilişkiyi tanımlar. Bir nesnenin durumu değiştiğinde, bütün bağımlılarına bildirilir. |  Hava işstasyonu sıcaklık nem ölçsün mobil biglisayar uygulaması lacd ekernaına isteyen bağlı kladıkça alabilsin. Hangileri register edilmişse onları gösterdi unregister olanı çıkardı. |
 
 ---
 
@@ -53,3 +54,4 @@ Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluş
 | **Fatih İzgi**   | [Medium](https://medium.com/@fatihizgi) |
 | **Ali Furkan Gökçe** | [Medium](https://medium.com/@alifurkangokce) |
 | **Evren Bal**    | [Medium](https://medium.com/@evrenbal) |
+| **Buse Tekin Ay** | [Medium](https://medium.com) |
