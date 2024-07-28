@@ -4,6 +4,10 @@
 
 ---
 
+[18 / 23]
+
+---
+
 ## Creational (Yaratımsal) ✔
 Nesneleri yaratmakta kullanılır.
 
