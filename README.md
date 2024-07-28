@@ -2,7 +2,7 @@
 
 ---
 
-[19 / 23] (Kalan : 4)
+[20 / 23] (Kalan : 3)
 
 ---
 
@@ -29,7 +29,7 @@ Nesneler arasındaki yapıları ifade eder.
 | 3  | Decorator       | Nesnelerin farklı kombinasyonlar ile farklı özelliklere sahip olabilmesini (karmaşıklıktan uzak bir şekilde) sağlamak. | UI arayüz componentlerinin tasarlandığı bir uygulama. Butonlar, grafikler vs. içermesi. |
 | 4  | Facade          | Karmaşık sistem veya alt sistemlerin daha basit ve anlaşılır arayüzle yönetilmesini sağlar.               | Alt sistemler için classlarımız olsun operasyon yönetsin. Facade ile kapsüllersek yönetmesi kullanması daha kolay olur. |
 | 5  | Flyweight       | Çok sayıda benzer nesneye ihtiyaç duyulması problemine çözüm olarak getirilmiştir.                        | İkili oyunlarda ağaç yerleştirme için nesne üretmek zorundayız, flyweight ile bellek optimizasyonu sağlanabilir. Aynı ağaç, farklı noktalara nesne üretmeden kullanılabilir. Orman olacak ormana tek tek ağaç ekleme yapacağız bunun konum bilgilerini ve ağaç türünü vereceğiz. |
-
+| 6  | Bridge          | Gerçekleştirimleri soyutlayarak birbirlerini iletişim kurabilecekleri bir köprü yapısı kurarak hiyerarşik karmaşıklığın önüne geçmeye çalışır. | TV Radyo gibi cihazlarda kumanda işlemleri için metotları yazıp kullanalım.
 ---
 
 ## Behavioral (Davranışsal)
@@ -59,3 +59,4 @@ Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluş
 | **Ali Furkan Gökçe** | [Medium](https://medium.com/@alifurkangokce) |
 | **Evren Bal**    | [Medium](https://medium.com/@evrenbal) |
 | **Buse Tekin Ay** | [Medium](https://medium.com) |
+| **Onur Dayıbaşı** | [Medium](https://medium.com) |
