@@ -2,10 +2,6 @@
 
 ---
 
-[20 / 23] (Kalan : 3)
-
----
-
 ## Creational (Yaratımsal) ✔
 Nesneleri yaratmakta kullanılır.
 
