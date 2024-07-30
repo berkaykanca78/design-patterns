@@ -19,7 +19,7 @@ Nesneleri yaratmakta kullanılır.
 
 ---
 
-## Structural (Yapısal)
+## Structural (Yapısal) ✔
 Nesneler arasındaki yapıları ifade eder.
 
 | #  | Desen          | Açıklama                                                                                                    | Örnek                                                             |
@@ -30,6 +30,7 @@ Nesneler arasındaki yapıları ifade eder.
 | 4  | Facade          | Karmaşık sistem veya alt sistemlerin daha basit ve anlaşılır arayüzle yönetilmesini sağlar.               | Alt sistemler için classlarımız olsun operasyon yönetsin. Facade ile kapsüllersek yönetmesi kullanması daha kolay olur. |
 | 5  | Flyweight       | Çok sayıda benzer nesneye ihtiyaç duyulması problemine çözüm olarak getirilmiştir.                        | İkili oyunlarda ağaç yerleştirme için nesne üretmek zorundayız, flyweight ile bellek optimizasyonu sağlanabilir. Aynı ağaç, farklı noktalara nesne üretmeden kullanılabilir. Orman olacak ormana tek tek ağaç ekleme yapacağız bunun konum bilgilerini ve ağaç türünü vereceğiz. |
 | 6  | Bridge          | Gerçekleştirimleri soyutlayarak birbirlerini iletişim kurabilecekleri bir köprü yapısı kurarak hiyerarşik karmaşıklığın önüne geçmeye çalışır. | TV Radyo gibi cihazlarda kumanda işlemleri için metotları yazıp kullanalım.
+| 7  | Composite       | Nesneleri ağaç yapısına göre düzenleyerek ağaç yapısındaki alt üst ilişkisini kurmaya yarayan bir desendir. |  Şirklet çalışan hiyeraşiasi çalışan ve yöneitlr altında bşaka yönetici ve çalışanmlar çalışan hiyerarişisi modelleme işlemi için kullanalım. |
 ---
 
 ## Behavioral (Davranışsal)
@@ -60,3 +61,4 @@ Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluş
 | **Evren Bal**    | [Medium](https://medium.com/@evrenbal) |
 | **Buse Tekin Ay** | [Medium](https://medium.com) |
 | **Onur Dayıbaşı** | [Medium](https://medium.com) |
+| **Veysel Mutlu** | [Medium](https://medium.com) |
