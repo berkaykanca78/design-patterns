@@ -33,7 +33,7 @@ Nesneler arasındaki yapıları ifade eder.
 | 7  | Composite       | Nesneleri ağaç yapısına göre düzenleyerek ağaç yapısındaki alt üst ilişkisini kurmaya yarayan bir desendir. |  Şirklet çalışan hiyeraşiasi çalışan ve yöneitlr altında bşaka yönetici ve çalışanmlar çalışan hiyerarişisi modelleme işlemi için kullanalım. |
 ---
 
-## Behavioral (Davranışsal)
+## Behavioral (Davranışsal) ✔
 Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluşturulur.
 
 | #  | Desen                  | Açıklama                                                                                                    | Örnek                                                             |
@@ -47,7 +47,8 @@ Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluş
 | 7  | Memento                | Bir nesnenin durumunu kaydedip geriye alma, ileri ve geri alma işlemlerinde kullanılabilir.                | Yapılan işlemin aktif/pasif olma durumu ve bunun geriye alınıp bir önceki duruma getirilmesi. |
 | 8  | Chain of Responsibility| Sorumluluk Zinciri, bir isteği bir dizi işleyici (zinciri) boyunca iletmenize izin veren davranışsal bir tasarım desenidir. Karmaşık iş kurallarının olduğu ve iç içe geçmiş birçok if blokları yerine ara sınıflar kullanarak daha yönetilebilir ve okunaklı kodlar yazılmasını sağlar. | Çeşitli ürünlerde farklı iskontoların formülize edildiği bir sistemde kullanılması. |
 | 9  | Observer               | Observer pattern, bir nesne kümesi arasındaki one-to-many ilişkiyi tanımlar. Bir nesnenin durumu değiştiğinde, bütün bağımlılarına bildirilir. | Hava istasyonu sıcaklık ve nem ölçsün, mobil bilgisayar uygulaması LCD ekranına isteyen bağlı kaldıkça alabilsin. Hangileri register edilmişse onları gösterir, unregister olanı çıkarır. |
-
+| 10 | Mediator               | Nesne arası iletişim aracı,merkezi̇ doğrudan eri̇şim ile medi̇ator sağlar. | Chat uygulaması ile kullanıcılar arası mesajlaşma uygulaması |
+| 11 | Interpreter            | Bir dilin gramerini tanımlamak ve bu dilde yazılan ifadeleri işlemek için kullanılır. Bu desen, genellikle programlama dilleri, komut satırı yorumlayıcıları veya ayrıştırıcılar (parsers) geliştirirken kullanılır. |  String setini Ascii setine çevirme işlemi |
 ---
 
 ## Kaynakça
@@ -62,3 +63,5 @@ Nesnelerin çalışma zamanına ait davranışlarını değiştirmek için oluş
 | **Buse Tekin Ay** | [Medium](https://medium.com) |
 | **Onur Dayıbaşı** | [Medium](https://medium.com) |
 | **Veysel Mutlu** | [Medium](https://medium.com) |
+| **Ali Turgut Bozkurt** | [Medium](https://medium.com) |
+| **Kenan Atmaca** | [Medium](https://medium.com) |
